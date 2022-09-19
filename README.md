@@ -1,4 +1,9 @@
-### Hi there 👋
+# Programador web👨‍💻
+## Estudiante de Licenciatura en Tecnologías de la Información👨‍🎓
+
+### Con experiencia en:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalz&layout=compact)](https://github.com/diegoalz/github-readme-stats)
 
 <!--
 **diegoalz/diegoalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
