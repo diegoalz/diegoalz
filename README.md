@@ -2,9 +2,13 @@
 ## Estudiante de Licenciatura en Tecnologías de la Información👨‍🎓
 
 ### Con experiencia en:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalz&layout=compact&theme=radical)](https://github.com/diegoalz/github-readme-stats)
+
+### Mi desempeño:
 ![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=diegoalz&show_icons=true&theme=radical)
+
+### Mis repositorios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegoalz&repo=github-readme-stats)](https://github.com/diegoalz/github-readme-stats)
 <!--
 **diegoalz/diegoalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
