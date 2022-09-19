@@ -3,7 +3,7 @@
 
 ### Con experiencia en:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalz&layout=compact&theme=radical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalz&layout=compact&theme=radical)](https://github.com/diegoalz/github-readme-stats)
 ![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=diegoalz&show_icons=true&theme=radical)
 <!--
 **diegoalz/diegoalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
