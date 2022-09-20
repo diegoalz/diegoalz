@@ -1,7 +1,7 @@
 # Programador web👨‍💻
 ## Estudiante de Licenciatura en Tecnologías de la Información👨‍🎓
 
-### ---Mi experiencia
+### ---Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalz&layout=compact&theme=radical)](https://github.com/diegoalz/github-readme-stats)
 
 ### ---Mi desempeño
