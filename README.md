@@ -1,4 +1,4 @@
-# Programador web👨‍💻
+# Desarrollo de software👨‍💻
 ## Estudiante de Licenciatura en Tecnologías de la Información👨‍🎓
 
 ### ---Lenguajes
