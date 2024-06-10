@@ -1,5 +1,5 @@
-# Desarrollo de software👨‍💻
-## Estudiante de Licenciatura en Tecnologías de la Información👨‍🎓
+# Desarrollador de Software Jr👨‍💻
+## Licenciado en Tecnologías de la Información en FACPYA👨‍🎓
 
 ### ---Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoalz&layout=compact&theme=radical)](https://github.com/diegoalz/github-readme-stats)
